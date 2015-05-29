@@ -1,0 +1,17 @@
+{
+  "name": "is-list-item",
+  "version": "0.1.0",
+  "description": "Takes a single element and returns true if that element is a list item (<li>)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "is",
+    "list",
+    "item",
+    "is-list-item"
+  ],
+  "author": "ashaffer (http://github.com/ashaffer)",
+  "license": "MIT"
+}
